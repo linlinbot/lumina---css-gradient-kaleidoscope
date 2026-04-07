@@ -1,0 +1,7 @@
+{
+  "name": "Lumina - CSS Gradient Kaleidoscope",
+  "description": "An interactive, music-reactive kaleidoscope visualizer powered by CSS gradients and Gemini AI themes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
